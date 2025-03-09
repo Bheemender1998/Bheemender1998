@@ -10,13 +10,7 @@
 - **Big Data & Frameworks:** Apache Spark, PySpark, Apache Kafka, Apache Airflow  
 - **Databases:** PostgreSQL, Oracle DB, MongoDB  
 - **BI & Data Warehousing:** Snowflake, Amazon Redshift, ODI, Tableau, OBIEE  
-- **Cloud Platforms:** AWS (S3, EC2, Glue, EMR), Azure (Data Bricks)  
-
-## 📌 Projects
-#### **Data Pipeline for Walmart eCommerce**
-- Developed an **end-to-end ETL pipeline** integrating **PostgreSQL & Parquet** data sources  
-- Designed an **extract() function** using Pandas to merge data efficiently  
-- Applied **data transformation techniques** for improved trend analysis  
+- **Cloud Platforms:** AWS (S3, EC2, Glue, EMR), Azure (Data Bricks)   
 
 ## 🎓 Education
 - **M.S. Computer Science** | University of Central Missouri _(Expected Dec 2024)_  
