@@ -1,4 +1,4 @@
-# Hi there, I'm Bheemender Gurram! 👋
+# Hey, I'm Bheemender Gurram! 👋
 
 🚀 **Data Engineer | Cloud Enthusiast | Big Data Specialist**  
 🔹 Passionate about optimizing enterprise ETL pipelines and modernizing data infrastructure  
