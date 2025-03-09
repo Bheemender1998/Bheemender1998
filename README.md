@@ -13,7 +13,7 @@
 - **Cloud Platforms:** AWS (S3, EC2, Glue, EMR), Azure (Data Bricks)   
 
 ## 🎓 Education
-- **M.S. Computer Science** | University of Central Missouri _(Expected Dec 2024)_  
+- **M.S. Computer Science** | University of Central Missouri _(Dec 2024)_  
 - **B.S. Computer Science** | Chandigarh University _(2020)_  
 
 🏆 **Awards:**  
