@@ -4,7 +4,7 @@
 
 - Computer Science graduate student [@UCM](https://www.ucmo.edu/). 
 - Learning and working my way towards a career in cloud.
-- Hobbies include being an avid-reader, riding a motorcycle!
+- Hobbies include being an avid-reader, runner, riding a motorcycle!
 
 
  <p align="center"> 
